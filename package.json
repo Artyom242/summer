@@ -1,0 +1,24 @@
+{
+  "name": "dog-copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./style.css -o ./css/main.css --watch",
+    "build": "npx tailwindcss -i ./style.css -o ./css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.6"
+  },
+  "dependencies": {
+    "jquery": "^3.6.3",
+    "json-server": "^0.17.1",
+    "pug": "^3.0.2",
+    "slick-carousel": "^1.8.1"
+  }
+}
