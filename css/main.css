@@ -661,8 +661,8 @@ h1,
   margin-bottom: 40px;
 }
 
-.mr-\[150px\] {
-  margin-right: 150px;
+.mr-\[100px\] {
+  margin-right: 100px;
 }
 
 .mt-\[120px\] {
@@ -671,22 +671,6 @@ h1,
 
 .mt-\[50px\] {
   margin-top: 50px;
-}
-
-.mr-\[180px\] {
-  margin-right: 180px;
-}
-
-.mr-\[200px\] {
-  margin-right: 200px;
-}
-
-.mr-\[130px\] {
-  margin-right: 130px;
-}
-
-.mr-\[100px\] {
-  margin-right: 100px;
 }
 
 .flex {
